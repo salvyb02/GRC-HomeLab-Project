@@ -38,7 +38,7 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ## Screenshots
 ### Environment - Microsoft Azure Virtual Machine Deployment
-
+![Environment Overview ](./Screenshots/Azure_Overview.png)
 ### Lynis Scan – Initial Findings
 ![Initial Lynis Scan ](./Screenshots/Lynis_Security_scan.png)
 
