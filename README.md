@@ -76,11 +76,3 @@ Key mitigations included strengthening password policies, configuring firewalls,
 - To check out my risk register so far, download this link: [Risk_Register.xlsx](./Lynis_Report_Template.xlsx) (Last Updated May 28th, 2025)
 - This Excel sheet contains my findings so far, Mitigation plans, and Control IDs according to NIST 800-171 framework
 
----
-
-## Project Outcome
-- Enhanced system security posture by addressing critical vulnerabilities.
-- Demonstrated expertise in **GRC principles**, **Linux hardening**, and **NIST 800-171** compliance.
-- Provided clear documentation and evidence suitable for audit purposes and portfolio showcase.
-
----
