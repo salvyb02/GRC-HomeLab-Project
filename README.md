@@ -38,7 +38,7 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ## 📸 Screenshots
 ### Lynis Scan – Initial Findings
-![Initial Lynis Scan ](./Screenshots/Lynis Security scan.png)
+![Initial Lynis Scan ](./Screenshots/Lynis_Security_scan.png)
 
 
 
