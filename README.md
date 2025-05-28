@@ -36,10 +36,11 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ---
 
-## Evidence and Documentation
-- **Screenshots**: Terminal outputs, configuration files (`/etc/login.defs`, `blacklist.conf`), firewall status, PAM configurations.
-- **Verification**: Lynis post-mitigation scans, apt-listbugs and apt-show-versions outputs.
-- **Logs**: Configuration change history and evidence of patch management implementation.
+## 📸 Screenshots
+### Lynis Scan – Initial Findings
+![Initial Lynis Scan ](./Screenshots/Lynis Security scan.png)
+
+
 
 ---
 
