@@ -36,14 +36,14 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ---
 
-## 🖼️ Evidence and Documentation
+## Evidence and Documentation
 - **Screenshots**: Terminal outputs, configuration files (`/etc/login.defs`, `blacklist.conf`), firewall status, PAM configurations.
 - **Verification**: Lynis post-mitigation scans, apt-listbugs and apt-show-versions outputs.
 - **Logs**: Configuration change history and evidence of patch management implementation.
 
 ---
 
-## 🔐 Security Controls Applied
+## Security Controls Applied
 - **IA-5 (Authenticator Management)**: Enforced strong password policies, PAM configuration, password complexity, and history settings.
 - **AC-6 (Least Privilege)**: Disabled unused protocols (SCTP), secured GRUB, configured default umask for files and directories.
 - **SC-7 (Boundary Protection)**: Configured UFW/iptables firewall rules, ensuring proper inbound and outbound traffic restrictions.
@@ -51,7 +51,7 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ---
 
-##  Project Outcome
+## Project Outcome
 - Enhanced system security posture by addressing critical vulnerabilities.
 - Demonstrated expertise in **GRC principles**, **Linux hardening**, and **NIST 800-171** compliance.
 - Provided clear documentation and evidence suitable for audit purposes and portfolio showcase.
