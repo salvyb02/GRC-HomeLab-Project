@@ -38,7 +38,11 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ## Screenshots
 ### Environment - Microsoft Azure Virtual Machine Deployment
-![Environment Overview ](./Screenshots/Azure_Overview.png)
+![Environment Overview ](./Screenshots/Azure_Overview.png)\
+
+- Above is my virtual cloud environment
+- I decided to go with the Microsoft Azure free trial for budgeting purposes
+- The OS I decided to practice with is Ubuntu Linux, as it is a low-cost system
 ### Lynis Scan – Initial Findings
 ![Initial Lynis Scan ](./Screenshots/Lynis_Security_scan.png)
 
@@ -65,6 +69,12 @@ Key mitigations included strengthening password policies, configuring firewalls,
 - **AC-6 (Least Privilege)**: Disabled unused protocols (SCTP), secured GRUB, configured default umask for files and directories.
 - **SC-7 (Boundary Protection)**: Configured UFW/iptables firewall rules, ensuring proper inbound and outbound traffic restrictions.
 - **SI-2 (Flaw Remediation)**: Installed apt-listbugs and apt-show-versions for proactive patch management.
+
+---
+
+## Risk Register
+- To check out my risk register so far, download this link: [Risk_Register.xlsx](./Lynis_Report_Template.xlsx)
+- This Excel sheet contains my findings so far, Mitigation plans, and Control IDs according to NIST 800-171 framework
 
 ---
 
