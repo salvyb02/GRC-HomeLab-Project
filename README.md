@@ -36,18 +36,26 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ---
 
-## 📸 Screenshots
+## Screenshots
+### Environment - Microsoft Azure Virtual Machine Deployment
+
 ### Lynis Scan – Initial Findings
 ![Initial Lynis Scan ](./Screenshots/Lynis_Security_scan.png)
 
 - Above is the initial security scan that Lynis produced
-- As we can see, there is a 60 hardness score, this score is out of 100
+- As we can see, there is a 60 hardness score, which is out of 100
 
 ![Lynis Warnings Section ](./Screenshots/Lynis_warnings.png)
 
 - Above, we find that Lynis produces warnings
 - Warnings are critical actions that need to be resolved
 
+![Initial Lynis Scan ](./Screenshots/Lynis_suggestions.png)
+
+- The most exciting part about this project is above
+- Lynis produces suggestions in its reports to aid in system hardening
+- What was most exciting for me was making decisions myself that I felt needed to be dealt with to make sure the system is hardened
+- For this project, I am currently working through all 44 suggestions and deciding which actions need to be taken
 
 
 ---
