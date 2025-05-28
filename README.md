@@ -40,6 +40,10 @@ Key mitigations included strengthening password policies, configuring firewalls,
 ### Lynis Scan – Initial Findings
 ![Initial Lynis Scan ](./Screenshots/Lynis_Security_scan.png)
 
+- Above is the initial security scan that Lynis produced
+- As we can see there is a 60 hardness score this score is out of 100
+- Lynis also prod
+
 
 
 ---
