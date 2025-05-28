@@ -17,7 +17,6 @@ Key mitigations included strengthening password policies, configuring firewalls,
 
 ## Tools and Frameworks
 - **Audit Tools**: Lynis, apt-listbugs, apt-show-versions
-- **Configuration**: UFW/iptables, /etc/login.defs, PAM modules, GRUB, kernel module blacklisting
 - **Frameworks**: NIST 800-171 (IA-5, AC-6, SC-7, SI-2), CIS Benchmarks
 
 ---
@@ -56,14 +55,5 @@ Key mitigations included strengthening password policies, configuring firewalls,
 - Enhanced system security posture by addressing critical vulnerabilities.
 - Demonstrated expertise in **GRC principles**, **Linux hardening**, and **NIST 800-171** compliance.
 - Provided clear documentation and evidence suitable for audit purposes and portfolio showcase.
-
----
-
-## Deliverables
-- 📊 **Excel Risk Register**: Full listing of 44 findings with status and NIST mappings.
-- 📸 **Screenshots and Evidence Folder**: Before/after configurations and verification logs.
-- 📝 **This GRC Lab Report**: Comprehensive summary for GitHub portfolio.
-- 📑 **Optional Policies**: Draft password and firewall policies aligned with controls.
-- 📤 **Presentation Slide Deck**: Summary of the project for interviews and demonstrations.
 
 ---
